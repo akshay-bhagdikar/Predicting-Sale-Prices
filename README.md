@@ -6,11 +6,11 @@ In this project I try to explore data pre processing and machine learning techni
 ****************************************************************************************************************************************
 **About the dataset:**
 
-The raw data consists of 79 explanatory features such as  Lot Area, Neighborhood, Type of dwelling, Year Built and so on. It has 1460 rows. 
+The raw data consists of 79 explanatory features such as  Lot Area, Neighborhood, Type of dwelling, Year Built and so on. It has 1460 rows. The description of the features can be found in the data_description.txt file.
 
 ********************************************************************************************************************************************************************************************************************************************************************************
 **Data exploration:**
-Before we begin with either data pre processing and application of machine learning algorithms, it is important to do exploratory data analysis to understand the distribution of data. It helps us to know 
+Before we begin with either data pre processing and application of machine learning algorithms, it is important to do exploratory data analysis to understand the distribution of data. It helps us to know about the data distribution, missing values, outliers etc. 
 
 
 ********************************************************************************************************************************************************************************************************************************************************************************
