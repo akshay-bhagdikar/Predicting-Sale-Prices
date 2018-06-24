@@ -36,7 +36,7 @@ The next section is about feature selection. I have used two methods of feature 
 
 ## Machine Learning Models 
 
-I applied linear regression, decision tree, random forest and SVM models to the data. 
+I applied linear regression, decision tree, random forest and SVM models to the data. I evaluated their performance by comparing the r2 values.
 
 
 ********************************************************************************************************************************************************************************************************************************************************************************
