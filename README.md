@@ -44,5 +44,5 @@ I applied linear regression, decision tree, random forest and SVM models to the 
 ## Summary:
 
 In this project we discussed handling missing values, dealing with ouliers, feature selection, different machine learning models and evaluating their performance based on R2 value. 
-We found that by basing the feature selection on manual selection (visual means) we select around 14 features and by basing it on statistical measures we select 35 features. By selecting more features we get an increase in r2 score by 0.3. 
+We found that by basing the feature selection on manual selection (visual means) we select around 14 features and by basing it on statistical measures we select 55 features. By selecting more features we get an increase in r2 score by 0.3. 
 Out of all the machine learning models that we applied, we got better performance by using decision tree model. 
